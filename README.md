@@ -2,9 +2,9 @@
 - 👀 I’m interested in artificial intelligence and machine learning
 - 🌱 I’m currently learning vit pune
 - 💞️ I’m looking to collaborate on projects and activities
-- 📫 How to reach me through gmail- inderbadhel@gmail.com
+- 📫 How to reach me through gmail- indrajeetbadhel.4334@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact: Back in 1884, a gentleman named William Henry Fruen invented the “Automatic Liquid-Drawing Device,” which was essentially the world’s first vending machine. Imagine getting a refreshing beverage from a Victorian-era contraption! 🥤💡
+
 
 
 <!---
