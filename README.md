@@ -7,7 +7,7 @@
 - 🚀 My goal is to secure a **paid internship** and work towards a **50+ LPA placement**.
 - 🎯 Actively working on innovative projects like **anti-sleep tracking devices for drivers** and **smart electric boards**.
 - 🛠️ All of my projects are available at [**GitHub**](https://github.com/Indrajeet-Badhel).
-- 📫 How to reach me: **[your-email@example.com](mailto:indrajeetbadhel.4334@gmail.com)**
+- 📫 How to reach me: **(indrajeetbadhel.4334@gmail.com)**
 
 ---
 
