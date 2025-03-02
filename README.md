@@ -7,7 +7,7 @@
 - I'm also exploring Blockchain and Ros 
 - I'm also learning for app development too 
 - 🚀 My goal is to secure a **paid internship** and work towards a **50+ LPA placement**.
-- 🎯 Actively working on innovative projects like **anti-sleep tracking devices for drivers** and **smart electric boards**.
+- 🎯 Actively working on innovative projects 
 - 🛠️ All of my projects are available at [**GitHub**](https://github.com/Indrajeet-Badhel).
 - 📫 How to reach me: **(indrajeetbadhel.4334@gmail.com)**
 
@@ -36,11 +36,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
 
 ---
-
-## 🚀 My Current Projects:
-- 🔧 **Smart Electric Board**: A camera-based occupancy detection system to manage electrical devices in empty rooms.
-- 🚘 **Anti-Sleep Tracking System**: A device to monitor and prevent driver drowsiness for enhanced road safety.
-- 🖥️ **Citizen Services Web App**: Simplifying access to essential services through a responsive platform.
-
 Let's connect and build something amazing together! 🚀
 
