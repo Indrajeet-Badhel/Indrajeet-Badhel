@@ -4,6 +4,8 @@
 👋 Hi there! I'm an Artificial Intelligence and Machine Learning (AIML) student at Vishwakarma Institute of Technology, Pune, currently pursuing my B.Tech degree. Originally from Nagpur, Maharashtra, I am passionate about leveraging technology to solve real-world problems and creating innovative solutions. My focus lies in building expertise in AI/ML, robotics, web development and software development to contribute to cutting-edge projects.
 
 - 🌱 I’m currently learning **JavaScript (Advanced)** and **Node.js** to enhance my web development skills.
+- I'm also exploring Blockchain and Ros 
+- I'm also learning for app development also
 - 🚀 My goal is to secure a **paid internship** and work towards a **50+ LPA placement**.
 - 🎯 Actively working on innovative projects like **anti-sleep tracking devices for drivers** and **smart electric boards**.
 - 🛠️ All of my projects are available at [**GitHub**](https://github.com/Indrajeet-Badhel).
