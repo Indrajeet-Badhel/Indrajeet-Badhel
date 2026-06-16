@@ -1,101 +1,158 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=120&section=header&text=Indrajeet%20Badhel&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Backend+Systems+Developer;Cybersecurity+Enthusiast;CS+Undergrad+%40+VIT+Pune" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/indrajeet-badhel"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Indrajeet-Badhel"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff"/></a>
+  <a href="https://indrajeet-badhel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=3fb950"/></a>
+</div>
+
+---
+
+## About Me
+
+3rd-year Computer Science student at VIT Pune, working at the intersection of AI/ML, backend engineering, and cybersecurity. I build systems that are intelligent enough to learn, fast enough to scale, and robust enough to stay secure.
+
+- Currently building **SentinelAI** — autonomous Linux monitoring with ML-driven anomaly detection and self-healing
+- Exploring **VAPT, threat detection pipelines, and SOC workflows**
+- Deep-diving into **C++ · DSA · Hashing and collision resolution**
+- Collaborating as part of a consistent five-person engineering team
+- Based in Pune, India
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=9B84D8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=3FB950)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=3FB950)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logo=databricks&logoColor=58a6ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=3FB950)
+
+### Frontend
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=E6522C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github-actions&logoColor=2088FF)
+
+### Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kali-linux&logoColor=557C94)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burp-suite&logoColor=FF6633)
+![ClamAV](https://img.shields.io/badge/ClamAV-0d1117?style=flat-square&logo=antivirus&logoColor=3FB950)
+![OWASP](https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=4682B4)
+
+---
+
+## Projects
+
+### Security & Infrastructure
+
+**SentinelAI**
+Autonomous Linux monitoring system using Isolation Forest for anomaly detection, Prometheus for metrics collection, and a Flask dashboard for real-time visibility. The system detects, classifies, and responds to anomalies without manual intervention.
+`Python` `Flask` `Prometheus` `Scikit-learn` `Linux` `Docker`
+
+**SecureScan Upload**
+Malware-aware file upload pipeline integrating ClamAV for content scanning, with strict content-type validation, threat flagging, and quarantine logic. Designed with a security-first architecture.
+`FastAPI` `ClamAV` `Docker` `Python`
+
+---
+
+### AI / ML Systems
+
+**Contact Builder** — *Certified by Passion Infotech Pvt. Ltd., Pune*
+AI-powered contact intelligence platform that extracts and enriches contact profiles from multiple data sources, then visualizes relationships as interactive 2D/3D network graphs.
+`Python` `LLMs` `ChromaDB` `Cytoscape.js` `React Force Graph 3D`
+
+**GreenScape AR**
+Augmented reality plant advisor with real-time disease diagnosis, urban gardening recommendations, and corporate carbon offset tracking. Combines computer vision with AR rendering.
+`AR` `Computer Vision` `Python` `Mobile`
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indrajeet-Badhel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajeet-Badhel&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indrajeet-Badhel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=3fb950"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indrajeet-Badhel&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Indrajeet-Badhel&theme=github_dark" width="100%"/>
+</div>
+
+---
+
+## Currently Learning
+
 ```
-静寂の中に、コードがある。
-  — There is code in the silence.
+C++ · DSA · Hashing & Collision Resolution    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  70%
+Cybersecurity · VAPT · Threat Analysis        ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  45%
+LLM Systems · RAG Pipelines · Agents          ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  60%
 ```
 
-&nbsp;
-
-# Indrajeet Badhel
-
-Backend systems. Autonomous agents. Security tooling.  
-Third-year CS at VIT (Vishwakarma Institute of Technology) — building things that monitor, protect, and think.
-
-&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/indrajeetbadhel) &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@IndrajeetBadhel) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:indrajeetnareshbadhel@gmail.com)
-
-&nbsp;
-
 ---
 
-**Currently working on**
+## Connect
 
-→ `SentinelAI` — autonomous Linux monitoring with anomaly detection and self-healing  
-→ `SecureScan` — malware scanning pipeline, ClamAV-backed, real-time threat classification  
-→ Sharpening DSA in C++. Slow and deliberate.
+<div align="center">
+  <a href="https://www.linkedin.com/in/indrajeet-badhel"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Indrajeet-Badhel"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://indrajeet-badhel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
 
----
+<br/>
 
-&nbsp;
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Indrajeet-Badhel&color=3fb950&style=flat-square&label=Profile+Views"/>
+</div>
 
-**Stack**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-
-&nbsp;
-
----
-
-**Selected work**
-
-| Project | What it does |
-|---|---|
-| [SentinelAI](#) | Monitors Linux infra, detects anomalies, self-heals. No human in the loop. |
-| [SecureScan](#) | Scans files for malware. Flags threats before they move. |
-| [GreenScape AR](#) | AR plant advisor with disease diagnosis and carbon offset tracking. |
-| [Contact Builder](#) | Extracts contact profiles. Renders 2D/3D relationship networks. |
-
-&nbsp;
-
----
-
-**GitHub**
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=Indrajeet-Badhel&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Indrajeet-Badhel&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-![](https://streak-stats.demolab.com/?user=Indrajeet-Badhel&theme=catppuccin_latte&hide_border=true)
-
-&nbsp;
-
-![](https://github-contributor-stats.vercel.app/api?username=Indrajeet-Badhel&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
-
-![](https://github-profile-trophy.vercel.app/?username=Indrajeet-Badhel&theme=catppuccin_latte&no-frame=true&no-bg=true&margin-w=4)
-
-&nbsp;
-
----
-
-**Interests**
-
-Cybersecurity · Autonomous systems · Backend architecture  
-Reading low-level things carefully.
-
-&nbsp;
-
----
-
-```
-書くより、動かせ。
-  — Make it run before you make it elegant.
-```
-
-&nbsp;
-
-![](https://komarev.com/ghpvc/?username=Indrajeet-Badhel&color=brightgreen&style=flat-square)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=100&section=footer"/>
+</div>
